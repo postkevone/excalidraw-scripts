@@ -4,11 +4,11 @@ A collection of Excalidraw scripts to directly create Markdown files and automat
 ## Generate Markdown file scripts
 
 ### Create markdown note (id)
-Creates a new Markdown note in the current folder using a timestamp as the filename, then automatically adds it to the canvas.
+Creates a new markdown note in the current folder using a timestamp as the filename, then automatically adds it to the canvas.
 ### Create markdown note (input)
-Prompts you to name a new Markdown note, saves it in the current folder, and adds it to the canvas.
+Prompts you to name a new markdown note, saves it in the current folder, and adds it to the canvas.
 ### Delete markdown note
-Delete the mardown note the note currently selected on the canvas.
+Delete the mardown note currently selected on the canvas.
 
 ## Automatic backlinking scripts
 
